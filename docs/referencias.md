@@ -13,10 +13,10 @@ Y para las plantillas del diseño he usado moqups:
 E hice estas plantillas como ejemplo para mi pagina web:
 
 ### Mockup para Ordenador
-[PC](/MockupOrdenador.png)
+[PC](img/MockupOrdenador.png)
 
 ### Mockup para Tablet
-[Tablet](/MockupTablet.png)
+[Tablet](img/MockupTablet.png)
 
 ### Mockup para Movil
-[Movil](/MockupMovil.png)
+[Movil](img/MockupMovil.png)
