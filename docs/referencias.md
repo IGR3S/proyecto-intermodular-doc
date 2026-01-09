@@ -4,7 +4,7 @@ Me he basado en paginas web como:
 
 - [Pasteleria Violet](https://pasteleriaviolet.com)
 
-##Plantillas
+## Plantillas
 
 Y para las plantillas del diseño he usado moqups:
 
@@ -12,11 +12,11 @@ Y para las plantillas del diseño he usado moqups:
 
 E hice estas plantillas como ejemplo para mi pagina web:
 
-###Mockup para Ordenador
+### Mockup para Ordenador
 [](./MockupOrdenador.png)
 
-###Mockup para Tablet
+### Mockup para Tablet
 [](./MockupTablet.png)
 
-###Mockup para Movil
+### Mockup para Movil
 [](./MockupMovil.png)
