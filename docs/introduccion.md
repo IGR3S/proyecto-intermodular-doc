@@ -1,4 +1,3 @@
 # Introducción
 
-Este proyecto consiste en una página web desarrollada con el objetivo de aumentar el foco de clientes de una pastelería.
-
+Este proyecto corresponde a la página web oficial de una pastelería local, diseñada para mostrar sus productos, servicios y facilitar el contacto con los clientes de forma sencilla y visual.
